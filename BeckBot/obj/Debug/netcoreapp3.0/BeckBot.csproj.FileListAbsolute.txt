@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.exe
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.deps.json
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.runtimeconfig.json
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.runtimeconfig.dev.json
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.dll
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\BeckBot.pdb
+C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.csprojAssemblyReference.cache
+C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.AssemblyInfo.cs
+C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.dll
+C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.pdb
