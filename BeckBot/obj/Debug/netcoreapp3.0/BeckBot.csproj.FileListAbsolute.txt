@@ -26,3 +26,5 @@ C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.d
 C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
 C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\System.Linq.Async.dll
 C:\Users\James\Desktop\BeckBot\BeckBot\obj\Debug\netcoreapp3.0\BeckBot.csproj.CopyComplete
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\Desktop\BeckBot\BeckBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
